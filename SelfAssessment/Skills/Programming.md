@@ -1,106 +1,106 @@
 ﻿## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🚀 constructed
-  - identifier 🚀 constructed
-  - variable 🚀 constructed
-  - constant 🚀 constructed
-  - scalar 🚀 constructed
-  - literal 🚀 constructed
-  - expression 🚀 constructed
-  - heap 🚀 constructed
-  - function🚀 constructed
-  - procedure🚀 constructed
-  - method🚀 constructed
-  - class🚀 constructed
-  - prototype🚀 constructed
-  - event🚀 constructed
-  - type🚀 constructed
-  - primitive types🚀 constructed
-  - reference types🚀 constructed
-  - flag🚀 constructed
-  - lexical scope🚀 constructed
-  - code block🚀 constructed
-  - conditions🚀 constructed
-  - loops🚀 constructed
-  - assignment🚀 constructed
-  - regular expression🚀 constructed
-  - interface🚀 constructed
-  - contract🚀 constructed
-  - module🚀 constructed
-  - call stack🚀 constructed
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
+  - heap 🖐️ used
+  - function🖐️ used
+  - procedure🖐️ used
+  - method🖐️ used
+  - class🖐️ used
+  - prototype🖐️ used
+  - event🖐️ used
+  - type🖐️ used
+  - primitive types🖐️ used
+  - reference types🖐️ used
+  - flag🖐️ used
+  - lexical scope🖐️ used
+  - code block🖐️ used
+  - conditions🖐️ used
+  - loops🖐️ used
+  - assignment🖐️ used
+  - regular expression🖐️ used
+  - interface🖐️ used
+  - contract🖐️ used
+  - module🖐️ used
+  - call stack🖐️ used
 - Functions
-  - signature🚀 constructed
-  - argument🚀 constructed
-  - parameter🚀 constructed
-  - pure function🚀 constructed
-  - lambda expression🚀 constructed
-  - side effects🚀 constructed
-  - closure🚀 constructed
-  - partial application🚀 constructed
-  - curry🚀 constructed
-  - higher order🚀 constructed
-  - recursion🚀 constructed
-  - callback🚀 constructed
-  - listener🚀 constructed
-  - compose🚀 constructed
-  - pipe🚀 constructed
-  - memoize🚀 constructed
-  - wrapper🚀 constructed
-  - functor🚀 constructed
-  - monad🚀 constructed
-  - monoid🚀 constructed
-  - generator🚀 constructed
-  - coroutine🚀 constructed
+  - signature🖐️ used
+  - argument🖐️ used
+  - parameter🖐️ used
+  - pure function🖐️ used
+  - lambda expression🖐️ used
+  - side effects🖐️ used
+  - closure🖐️ used
+  - partial application🖐️ used
+  - curry🖐️ used
+  - higher order🖐️ used
+  - recursion🖐️ used
+  - callback🖐️ used
+  - listener🖐️ used
+  - compose🖐️ used
+  - pipe🖐️ used
+  - memoize🖐️ used
+  - wrapper🖐️ used
+  - functor🖐️ used
+  - monad🖐️ used
+  - monoid🖐️ used
+  - generator🖐️ used
+  - coroutine🖐️ used
 - Data structures
-  - array🚀 constructed
-  - structure🚀 constructed
-  - record🚀 constructed
-  - enum🚀 constructed
-  - instance🚀 constructed
-  - object🚀 constructed
-  - class🚀 constructed
-  - collection🚀 constructed
-  - set🚀 constructed
-  - hash table🚀 constructed
-  - linked list🚀 constructed
-  - doubly list🚀 constructed
-  - unrolled list🚀 constructed
-  - circular list🚀 constructed
-  - queue🚀 constructed
-  - stack🚀 constructed
-  - deque🚀 constructed
-  - tree🚀 constructed
-  - graph🚀 constructed
-  - iterator🚀 constructed
-  - mutable state🚀 constructed
-  - immutable state🚀 constructed
-  - serialization🚀 constructed
-  - string parsing🚀 constructed
+  - array🖐️ used
+  - structure🖐️ used
+  - record🖐️ used
+  - enum🖐️ used
+  - instance🖐️ used
+  - object🖐️ used
+  - class🖐️ used
+  - collection🖐️ used
+  - set🖐️ used
+  - hash table🖐️ used
+  - linked list🖐️ used
+  - doubly list🖐️ used
+  - unrolled list🖐️ used
+  - circular list🖐️ used
+  - queue🖐️ used
+  - stack🖐️ used
+  - deque🖐️ used
+  - tree🖐️ used
+  - graph🖐️ used
+  - iterator🖐️ used
+  - mutable state🖐️ used
+  - immutable state🖐️ used
+  - serialization🖐️ used
+  - string parsing🖐️ used
 - Process & style
-  - compiler🚀 constructed
-  - transpiler🚀 constructed
-  - linter🚀 constructed
-  - polyfill🚀 constructed
-  - debugger🚀 constructed
-  - garbage collection🚀 constructed
-  - refactoring🚀 constructed
-  - code review🚀 constructed
-  - antipatterns🚀 constructed
-  - paradigm🚀 constructed
-  - algorithm🚀 constructed
-  - magic numbers🚀 constructed
-  - hardcode🚀 constructed
-  - complexity🚀 constructed
-  - decomposition🚀 constructed
-  - spaghetti🚀 constructed
-  - silver bullet🚀 constructed
-  - not invented here🚀 constructed
-  - dead code🚀 constructed
-  - unreachable code🚀 constructed
-  - duplicate code🚀 constructed
-  - exception🚀 constructed
-  - return early🚀 constructed
-  - unittest🚀 constructed
-  - git🚀 constructed
-  - github🚀 constructed
+  - compiler🖐️ used
+  - transpiler🖐️ used
+  - linter🖐️ used
+  - polyfill🖐️ used
+  - debugger🖐️ used
+  - garbage collection🖐️ used
+  - refactoring🖐️ used
+  - code review🖐️ used
+  - antipatterns🖐️ used
+  - paradigm🖐️ used
+  - algorithm🖐️ used
+  - magic numbers🖐️ used
+  - hardcode🖐️ used
+  - complexity🖐️ used
+  - decomposition🖐️ used
+  - spaghetti🖐️ used
+  - silver bullet🖐️ used
+  - not invented here🖐️ used
+  - dead code🖐️ used
+  - unreachable code🖐️ used
+  - duplicate code🖐️ used
+  - exception🖐️ used
+  - return early🖐️ used
+  - unittest🖐️ used
+  - git🖐️ used
+  - github🖐️ used
