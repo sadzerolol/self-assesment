@@ -1,11 +1,11 @@
 ﻿## Multi-paradigm programming
-👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🖐️ used
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 👂 heard, 🔬 researched, 🖐️ used
 - Theory
   - Procedural programming 🎓 known
   - Imperative programming 🎓 known
   - Structured programming 🎓 known
-  - Non-structured programming 📢 talked
-  - Functional programming 📢 talked
+  - Non-structured programming 👂 heard
+  - Functional programming 👂 heard
   - Prototype-based programming 👂 heard
   - Object-oriented programming 🖐️ used
   - Object-based programming 🎓 known
