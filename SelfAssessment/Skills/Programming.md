@@ -1,0 +1,106 @@
+﻿## Programming fundamental concepts
+
+- Syntax and concepts
+  - value 🚀 constructed
+  - identifier 🚀 constructed
+  - variable 🚀 constructed
+  - constant 🚀 constructed
+  - scalar 🚀 constructed
+  - literal 🚀 constructed
+  - expression 🚀 constructed
+  - heap 🚀 constructed
+  - function🚀 constructed
+  - procedure🚀 constructed
+  - method🚀 constructed
+  - class🚀 constructed
+  - prototype🚀 constructed
+  - event🚀 constructed
+  - type🚀 constructed
+  - primitive types🚀 constructed
+  - reference types🚀 constructed
+  - flag🚀 constructed
+  - lexical scope🚀 constructed
+  - code block🚀 constructed
+  - conditions🚀 constructed
+  - loops🚀 constructed
+  - assignment🚀 constructed
+  - regular expression🚀 constructed
+  - interface🚀 constructed
+  - contract🚀 constructed
+  - module🚀 constructed
+  - call stack🚀 constructed
+- Functions
+  - signature🚀 constructed
+  - argument🚀 constructed
+  - parameter🚀 constructed
+  - pure function🚀 constructed
+  - lambda expression🚀 constructed
+  - side effects🚀 constructed
+  - closure🚀 constructed
+  - partial application🚀 constructed
+  - curry🚀 constructed
+  - higher order🚀 constructed
+  - recursion🚀 constructed
+  - callback🚀 constructed
+  - listener🚀 constructed
+  - compose🚀 constructed
+  - pipe🚀 constructed
+  - memoize🚀 constructed
+  - wrapper🚀 constructed
+  - functor🚀 constructed
+  - monad🚀 constructed
+  - monoid🚀 constructed
+  - generator🚀 constructed
+  - coroutine🚀 constructed
+- Data structures
+  - array🚀 constructed
+  - structure🚀 constructed
+  - record🚀 constructed
+  - enum🚀 constructed
+  - instance🚀 constructed
+  - object🚀 constructed
+  - class🚀 constructed
+  - collection🚀 constructed
+  - set🚀 constructed
+  - hash table🚀 constructed
+  - linked list🚀 constructed
+  - doubly list🚀 constructed
+  - unrolled list🚀 constructed
+  - circular list🚀 constructed
+  - queue🚀 constructed
+  - stack🚀 constructed
+  - deque🚀 constructed
+  - tree🚀 constructed
+  - graph🚀 constructed
+  - iterator🚀 constructed
+  - mutable state🚀 constructed
+  - immutable state🚀 constructed
+  - serialization🚀 constructed
+  - string parsing🚀 constructed
+- Process & style
+  - compiler🚀 constructed
+  - transpiler🚀 constructed
+  - linter🚀 constructed
+  - polyfill🚀 constructed
+  - debugger🚀 constructed
+  - garbage collection🚀 constructed
+  - refactoring🚀 constructed
+  - code review🚀 constructed
+  - antipatterns🚀 constructed
+  - paradigm🚀 constructed
+  - algorithm🚀 constructed
+  - magic numbers🚀 constructed
+  - hardcode🚀 constructed
+  - complexity🚀 constructed
+  - decomposition🚀 constructed
+  - spaghetti🚀 constructed
+  - silver bullet🚀 constructed
+  - not invented here🚀 constructed
+  - dead code🚀 constructed
+  - unreachable code🚀 constructed
+  - duplicate code🚀 constructed
+  - exception🚀 constructed
+  - return early🚀 constructed
+  - unittest🚀 constructed
+  - git🚀 constructed
+  - github🚀 constructed

@@ -1,0 +1,95 @@
+﻿## Asynchronous programming
+
+- Theory
+  - Event loop 🚀 constructed
+  - try..catch 🚀 constructed
+  - Non-blocking 🚀 constructed
+  - Async I/O 🚀 constructed
+  - Thread pool 🚀 constructed
+  - Pattern Reactor 🚀 constructed
+  - CAS operations 🚀 constructed
+  - epoll 🚀 constructed
+  - kqueue 🚀 constructed
+  - Completion ports 🚀 constructed
+  - Event ports 🚀 constructed
+  - libuv 🚀 constructed
+  - Race conditions 🚀 constructed
+  - Dead locks 🚀 constructed
+  - Live locks 🚀 constructed
+  - Concurrent programming 🚀 constructed
+  - Parallel programming 🚀 constructed
+  - Actor Model 🚀 constructed
+  - Thread 🚀 constructed
+  - Process 🚀 constructed
+- Async contracts
+  - Callbacks 🚀 constructed
+  - Callback-last-error-first 🚀 constructed
+  - Thenable 🚀 constructed
+  - Promise 🚀 constructed
+  - Async/await 🚀 constructed
+  - Future 🚀 constructed
+  - Deferred 🚀 constructed
+  - Sync generator 🚀 constructed
+  - Async Generator 🚀 constructed
+  - Async Iterator 🚀 constructed
+  - Event 🚀 constructed 
+  - Coroutine 🚀 constructed
+  - Goroutine 🚀 constructed
+  - Signal 🚀 constructed
+  - Stream 🚀 constructed
+  - Chain of responsibility 🚀 constructed
+  - Middleware 🚀 constructed
+  - Locks 🚀 constructed
+- Async adapters and utils
+  - callbackify 🎓 known
+  - promisify 🎓 known
+  - asyncify 🎓 known
+  - callbacks compose 🎓 known
+  - async compose 🎓 known
+- Async abstractions interfaces 
+  - EventEmitter 🎓 known
+  - Observable/Observer 🎓 known
+  - Readable 🎓 known
+  - Writable🎓 known
+  - Transform 🎓 known
+  - Async Pool 🎓 known
+  - Async Queue 🎓 known 
+  - Async Collector🎓 known
+  - Semaphore 🎓 known
+  - Mutex🎓 known
+  - Spin Lock🎓 known
+- JavaScript & Node.js specific
+  - Timers 🚀 constructed
+  - setImmediate 🚀 constructed
+  - nextTick 🚀 constructed
+  - AbortController 🚀 constructed
+  - AbortSignal 🚀 constructed
+  - Promise unhandled rejection 🚀 constructed
+  - Promise double resolve 🚀 constructed
+  - child_process 🚀 constructed
+  - worker_threads 🚀 constructed
+  - Atomics 🎓 known
+  - High resolution clock 🚀 constructed
+  - Callback hell 🎓 known
+  - Promise hell 🎓 known
+  - ref() and unref() 🎓 known
+  - Error handling in async code 🎓 known
+  - Better stack traces with return await 🎓 known
+  - JSON: streaming serialization 🚀 constructed
+  - promisify 🚀 constructed
+  - callbackify 🚀 constructed
+  - AsyncLocalStorage 🚀 constructed
+  - AsyncResource 🚀 constructed
+- Techniques
+  - async.js library 🚀 constructed
+  - RxJS library 🚀 constructed
+  - Async composition 🚀 constructed
+  - Promise.all 🚀 constructed
+  - Promise.allSettled 🎓 known
+  - Promise.race 🎓 known
+  - Promise.any 🎓 known
+  - Web Locks API 🎓 known
+  - IPC 🎓 known
+  - Channel API 🎓 known
+  - Revealing Constructor 🎓 known
+  - Web Locks API 🎓 known

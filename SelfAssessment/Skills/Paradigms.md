@@ -1,0 +1,66 @@
+﻿## Multi-paradigm programming
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+- Theory
+  - Procedural programming 🎓 known
+  - Imperative programming 🎓 known
+  - Structured programming 🎓 known
+  - Non-structured programming 👂 heard
+  - Functional programming 👂 heard
+  - Prototype-based programming 👂 heard
+  - Object-oriented programming 🚀 constructed
+  - Object-based programming 🎓 known
+  - Generic programming 🎓 known
+  - Concurrent computing 🚀 constructed
+  - Asyncronous programming 🚀 constructed
+  - Parallel programming 🚀 constructed
+  - Reactive programming 👂 heard
+  - FRP (Functional-reactive) 👂 heard
+  - Automata-based programming 👂 heard
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
+  - Actor model 👂 heard
+- OOP basics
+  - constructor 🚀 constructed
+  - new 🚀 constructed
+  - Static method 🚀 constructed
+  - Method 🚀 constructed
+  - Async method 🚀 constructed
+  - Getters, Setters 🚀 constructed
+  - Public fields 🚀 constructed
+  - Private fields 🚀 constructed
+  - Field declarations 🚀 constructed
+  - Inheritance 🚀 constructed
+  - Parent class 🚀 constructed
+  - Polymorphism 🚀 constructed
+  - Abstract class 🚀 constructed
+  - Interface 🚀 constructed
+  - Encapsulation 🚀 constructed
+  - Hidden class 🚀 constructed
+  - Object form 🚀 constructed
+  - instance 🚀 constructed
+  - Introspection 🚀 constructed
+  - Reflection 🚀 constructed
+- Patterns
+  - Singleton 🚀 constructed
+  - Factory Method 🚀 constructed
+  - Abstract Factory 🚀 constructed
+  - Adapter 🚀 constructed
+  - Observer 🚀 constructed
+  - Strategy 🚀 constructed
+  - Facade 🚀 constructed
+  - Proxy 🚀 constructed
+  - Chain of Responsibility 🚀 constructed
+  - Command 🚀 constructed
+  - Iterator 🚀 constructed
+  - State 🚀 constructed
+  - Bridge 🚀 constructed
+  - Builder 🚀 constructed
+  - Prototype 🚀 constructed
+  - Composite 🚀 constructed
+  - Decorator 🚀 constructed
+  - Flyweight 🚀 constructed
+  - Mediator 🚀 constructed
+  - Memento 🚀 constructed 
+  - Template Method🚀 constructed
+  - Visitor 🚀 constructed

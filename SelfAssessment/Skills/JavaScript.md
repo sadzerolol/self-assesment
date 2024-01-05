@@ -1,0 +1,89 @@
+﻿## Programming fundamental concepts
+
+- Language
+  - Object 🚀 constructed
+  - this 🚀 constructed
+  - arrow function 🚀 constructed
+  - async function 🚀 constructed
+  - call 🚀 constructed
+  - bind 🚀 constructed
+  - apply 🚀 constructed
+  - instanceof 🚀 constructed
+  - ...spread 🚀 constructed
+  - ...rest 🚀 constructed
+  - typeof 🚀 constructed
+  - destructuring 🚀 constructed
+  - generator 🚀 constructed
+  - iterator 🚀 constructed
+  - async generator 🚀 constructed
+  - async iterator 🚀 constructed
+  - chaining 🚀 constructed
+  - optional chaining 🚀 constructed
+  - IIFE 🚀 constructed
+  - global 🚀 constructed
+  - globalThis 🚀 constructed
+  - window 🚀 constructed
+  - getters and setters 🚀 constructed
+  - __proto__ 🚀 constructed
+  - prototype 🚀 constructed
+  - equality operators 🚀 constructed
+  - logical operators 🚀 constructed
+  - bitwise operators 🚀 constructed
+  - ternary operator 🚀 constructed 
+  - void 🚀 constructed
+  - yield 🚀 constructed
+  - await 🚀 constructed
+  - template literal 🚀 constructed
+  - strict mode 🚀 constructed
+  - delete🚀 constructed 
+  - in🚀 constructed
+  - super🚀 constructed
+  - Symbol🚀 constructed
+  - Reflect🚀 constructed
+- Statements
+  - if 🚀 constructed 
+  - while 🚀 constructed 
+  - do..while 🚀 constructed 
+  - for 🚀 constructed 
+  - for..in 🚀 constructed 
+  - for..of 🚀 constructed
+  - for await 🚀 constructed
+  - throw 🚀 constructed
+  - break 🚀 constructed
+  - continue 🚀 constructed
+  - import 🚀 constructed
+  - export 🚀 constructed
+  - label 🚀 constructed
+  - try..catch 🚀 constructed
+  - switch 🚀 constructed
+  - class 🚀 constructed
+  - new Error 🚀 constructed
+  - with 🚀 constructed
+- Functions
+  - function declaration 🚀 constructed
+  - function expression 🚀 constructed
+  - return 🚀 constructed
+  - default parameters 🚀 constructed
+  - functional object 🚀 constructed
+- Data structures
+  - Array 🚀 constructed
+  - mixin 🚀 constructed
+  - extend 🚀 constructed
+  - typed arrays 🚀 constructed
+  - Map 🚀 constructed
+  - Set 🚀 constructed
+  - undefined 🚀 constructed
+  - null 🚀 constructed
+  - Proxy 🚀 constructed
+  - weak collections 🚀 constructed
+  - timers 🚀 constructed
+  - EventEmitter 🚀 constructed
+  - RegExp 🚀 constructed
+  - Date 🚀 constructed
+  - BigInt 🚀 constructed
+- Infrastructure
+  - V8  👂 heard
+  - Node.js 👂 heard
+  - npm 👂 heard
+  - prettier 🚀 constructed
+  - MDN 🚀 constructed
