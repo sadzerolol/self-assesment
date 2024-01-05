@@ -1,21 +1,21 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js 📢 talked
+  - Stateful and stateless servers 📢 talked
+  - Nonblocking I/O and slocking code 📢 talked
+  - Event loop: phases 📢 talked
+  - Event loop: microtasks and macrotasks 📢 talked
+  - Garbage collection 📢 talked
+  - Node.js LTS schedule📢 talked
+  - I/O-bound, CPU-bound, memory-bound tasks 📢 talked
+  - Interactive applications (close to real-time) 📢 talked
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 📢 talked
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
@@ -48,8 +48,8 @@
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - Stream back pressure
-  - SharedArrayBuffer
+  - Stream back pressure 📢 talked
+  - SharedArrayBuffer 📢 talked
   - node:worker_threads
   - node:child_process
   - MessageChannel, MessagePort
