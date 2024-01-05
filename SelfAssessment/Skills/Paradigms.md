@@ -4,8 +4,8 @@
   - Procedural programming 🎓 known
   - Imperative programming 🎓 known
   - Structured programming 🎓 known
-  - Non-structured programming 👂 heard
-  - Functional programming 👂 heard
+  - Non-structured programming 📢 talked
+  - Functional programming 📢 talked
   - Prototype-based programming 👂 heard
   - Object-oriented programming 🖐️ used
   - Object-based programming 🎓 known
