@@ -1,5 +1,5 @@
 ﻿## Multi-paradigm programming
-👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched
 - Theory
   - Procedural programming 🎓 known
   - Imperative programming 🎓 known
@@ -7,12 +7,12 @@
   - Non-structured programming 👂 heard
   - Functional programming 👂 heard
   - Prototype-based programming 👂 heard
-  - Object-oriented programming 🚀 constructed
+  - Object-oriented programming 👂 heard
   - Object-based programming 🎓 known
   - Generic programming 🎓 known
-  - Concurrent computing 🚀 constructed
-  - Asyncronous programming 🚀 constructed
-  - Parallel programming 🚀 constructed
+  - Concurrent computing 👂 heard
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard
   - Reactive programming 👂 heard
   - FRP (Functional-reactive) 👂 heard
   - Automata-based programming 👂 heard
@@ -21,46 +21,46 @@
   - Metaprogramming 👂 heard
   - Actor model 👂 heard
 - OOP basics
-  - constructor 🚀 constructed
-  - new 🚀 constructed
-  - Static method 🚀 constructed
-  - Method 🚀 constructed
-  - Async method 🚀 constructed
-  - Getters, Setters 🚀 constructed
-  - Public fields 🚀 constructed
-  - Private fields 🚀 constructed
-  - Field declarations 🚀 constructed
-  - Inheritance 🚀 constructed
-  - Parent class 🚀 constructed
-  - Polymorphism 🚀 constructed
-  - Abstract class 🚀 constructed
-  - Interface 🚀 constructed
-  - Encapsulation 🚀 constructed
-  - Hidden class 🚀 constructed
-  - Object form 🚀 constructed
-  - instance 🚀 constructed
-  - Introspection 🚀 constructed
-  - Reflection 🚀 constructed
+  - constructor 👂 heard
+  - new 👂 heard
+  - Static method 👂 heard
+  - Method 👂 heard
+  - Async method 👂 heard
+  - Getters, Setters 👂 heard
+  - Public fields 👂 heard
+  - Private fields 👂 heard
+  - Field declarations 👂 heard
+  - Inheritance 👂 heard
+  - Parent class 👂 heard
+  - Polymorphism 👂 heard
+  - Abstract class 👂 heard
+  - Interface 👂 heard
+  - Encapsulation 👂 heard
+  - Hidden class 👂 heard
+  - Object form 👂 heard
+  - instance 👂 heard
+  - Introspection 👂 heard
+  - Reflection 👂 heard
 - Patterns
-  - Singleton 🚀 constructed
-  - Factory Method 🚀 constructed
-  - Abstract Factory 🚀 constructed
-  - Adapter 🚀 constructed
-  - Observer 🚀 constructed
-  - Strategy 🚀 constructed
-  - Facade 🚀 constructed
-  - Proxy 🚀 constructed
-  - Chain of Responsibility 🚀 constructed
-  - Command 🚀 constructed
-  - Iterator 🚀 constructed
-  - State 🚀 constructed
-  - Bridge 🚀 constructed
-  - Builder 🚀 constructed
-  - Prototype 🚀 constructed
-  - Composite 🚀 constructed
-  - Decorator 🚀 constructed
-  - Flyweight 🚀 constructed
-  - Mediator 🚀 constructed
-  - Memento 🚀 constructed 
-  - Template Method🚀 constructed
-  - Visitor 🚀 constructed
+  - Singleton 👂 heard
+  - Factory Method 👂 heard
+  - Abstract Factory 👂 heard
+  - Adapter 👂 heard
+  - Observer 👂 heard
+  - Strategy 👂 heard
+  - Facade 👂 heard
+  - Proxy 👂 heard
+  - Chain of Responsibility 👂 heard
+  - Command 👂 heard
+  - Iterator 👂 heard
+  - State 👂 heard
+  - Bridge 👂 heard
+  - Builder 👂 heard
+  - Prototype 👂 heard
+  - Composite 👂 heard
+  - Decorator 👂 heard
+  - Flyweight 👂 heard
+  - Mediator 👂 heard
+  - Memento 👂 heard 
+  - Template Method👂 heard
+  - Visitor 👂 heard
