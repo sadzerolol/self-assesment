@@ -1,5 +1,5 @@
 ﻿## Multi-paradigm programming
-👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 👂 heard, 🔬 researched, 🖐️ used
 - Theory
   - Procedural programming 🎓 known
   - Imperative programming 🎓 known
@@ -7,12 +7,12 @@
   - Non-structured programming 👂 heard
   - Functional programming 👂 heard
   - Prototype-based programming 👂 heard
-  - Object-oriented programming 🚀 constructed
+  - Object-oriented programming 🖐️ used
   - Object-based programming 🎓 known
   - Generic programming 🎓 known
-  - Concurrent computing 🚀 constructed
-  - Asyncronous programming 🚀 constructed
-  - Parallel programming 🚀 constructed
+  - Concurrent computing 🖐️ used
+  - Asyncronous programming 🖐️ used
+  - Parallel programming 🖐️ used
   - Reactive programming 👂 heard
   - FRP (Functional-reactive) 👂 heard
   - Automata-based programming 👂 heard
@@ -21,46 +21,46 @@
   - Metaprogramming 👂 heard
   - Actor model 👂 heard
 - OOP basics
-  - constructor 🚀 constructed
-  - new 🚀 constructed
-  - Static method 🚀 constructed
-  - Method 🚀 constructed
-  - Async method 🚀 constructed
-  - Getters, Setters 🚀 constructed
-  - Public fields 🚀 constructed
-  - Private fields 🚀 constructed
-  - Field declarations 🚀 constructed
-  - Inheritance 🚀 constructed
-  - Parent class 🚀 constructed
-  - Polymorphism 🚀 constructed
-  - Abstract class 🚀 constructed
-  - Interface 🚀 constructed
-  - Encapsulation 🚀 constructed
-  - Hidden class 🚀 constructed
-  - Object form 🚀 constructed
-  - instance 🚀 constructed
-  - Introspection 🚀 constructed
-  - Reflection 🚀 constructed
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
+  - Hidden class 🖐️ used
+  - Object form 🖐️ used
+  - instance 🖐️ used
+  - Introspection 🖐️ used
+  - Reflection 🖐️ used
 - Patterns
-  - Singleton 🚀 constructed
-  - Factory Method 🚀 constructed
-  - Abstract Factory 🚀 constructed
-  - Adapter 🚀 constructed
-  - Observer 🚀 constructed
-  - Strategy 🚀 constructed
-  - Facade 🚀 constructed
-  - Proxy 🚀 constructed
-  - Chain of Responsibility 🚀 constructed
-  - Command 🚀 constructed
-  - Iterator 🚀 constructed
-  - State 🚀 constructed
-  - Bridge 🚀 constructed
-  - Builder 🚀 constructed
-  - Prototype 🚀 constructed
-  - Composite 🚀 constructed
-  - Decorator 🚀 constructed
-  - Flyweight 🚀 constructed
-  - Mediator 🚀 constructed
-  - Memento 🚀 constructed 
-  - Template Method🚀 constructed
-  - Visitor 🚀 constructed
+  - Singleton 🖐️ used
+  - Factory Method 🖐️ used
+  - Abstract Factory 🖐️ used
+  - Adapter 🖐️ used
+  - Observer 🖐️ used
+  - Strategy 🖐️ used
+  - Facade 🖐️ used
+  - Proxy 🖐️ used
+  - Chain of Responsibility 🖐️ used
+  - Command 🖐️ used
+  - Iterator 🖐️ used
+  - State 🖐️ used
+  - Bridge 🖐️ used
+  - Builder 🖐️ used
+  - Prototype 🖐️ used
+  - Composite 🖐️ used
+  - Decorator 🖐️ used
+  - Flyweight 🖐️ used
+  - Mediator 🖐️ used
+  - Memento 🖐️ used 
+  - Template Method🖐️ used
+  - Visitor 🖐️ used
